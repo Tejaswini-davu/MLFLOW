@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/30113aa6cba24de58394d71fbb6d9744/artifacts
+end_time: 1734756424540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30113aa6cba24de58394d71fbb6d9744
+run_name: calm-mole-212
+run_uuid: 30113aa6cba24de58394d71fbb6d9744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734756420295
+status: 4
+tags: []
+user_id: tejaswini
